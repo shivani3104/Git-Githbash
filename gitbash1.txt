@@ -1,0 +1,37 @@
+$git init 
+-to initialized empty git repo
+
+$git status
+-no commit yet
+
+$git add .
+-To add all the file from there folder to git
+
+$git commit -m "index file created"
+-To commit the file to the git
+
+----for first time user------
+$git config --global user.email "your email"
+
+$git config --global user.name "your name"
+
+-----------------------------------
+
+ git remote add origin https://github.com/shivani3104/Git-Github
+-To coonect with file to repo
+------------------------------------------------------------------
+
+-SHIVANI TUPLONDHE@DESKTOP-KMMPQJT MINGW64 /d/gitbash (master)
+$ git push -u origin master 
+
+<-this is command for push the file to repo 
+-here we write master in command its mean we shift to the master and we write master due to SHIVANI TUPLONDHE@DESKTOP-KMMPQJT MINGW64 /d/gitbash (master) if we Admin@LAPTOP-BAN266BQ MINGW64 /d/git_bash (main) 
+
+then the command is
+$ git push -u origin main
+--------------------------------------------------------------------
+ 
+
+
+
+
